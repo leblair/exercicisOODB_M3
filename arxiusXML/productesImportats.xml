@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_192" class="java.beans.XMLDecoder">
+ <object class="DBOO_exercicis_1.Producte_Dades">
+  <void property="idDepartamentQueElPotDemanar">
+   <int>3</int>
+  </void>
+  <void property="producteId">
+   <int>3</int>
+  </void>
+  <void property="producteNom">
+   <string>Autopilot SAU-6</string>
+  </void>
+  <void property="productePreu">
+   <int>20</int>
+  </void>
+ </object>
+ <object class="DBOO_exercicis_1.Producte_Dades">
+  <void property="idDepartamentQueElPotDemanar">
+   <int>4</int>
+  </void>
+  <void property="producteId">
+   <int>5</int>
+  </void>
+  <void property="producteNom">
+   <string>Bobina d&apos;inducció magnètica del reactor principal</string>
+  </void>
+  <void property="productePreu">
+   <int>20000</int>
+  </void>
+ </object>
+ <object class="DBOO_exercicis_1.Producte_Dades">
+  <void property="producteId">
+   <int>1</int>
+  </void>
+  <void property="producteNom">
+   <string>Ració de combat</string>
+  </void>
+  <void property="productePreu">
+   <int>2</int>
+  </void>
+ </object>
+ <object class="DBOO_exercicis_1.Producte_Dades">
+  <void property="idDepartamentQueElPotDemanar">
+   <int>3</int>
+  </void>
+  <void property="producteId">
+   <int>6</int>
+  </void>
+  <void property="producteNom">
+   <string>Sistema de navegació de llarg abast RSDN-10</string>
+  </void>
+  <void property="productePreu">
+   <int>24</int>
+  </void>
+ </object>
+ <object class="DBOO_exercicis_1.Producte_Dades">
+  <void property="idDepartamentQueElPotDemanar">
+   <int>3</int>
+  </void>
+  <void property="producteId">
+   <int>4</int>
+  </void>
+  <void property="producteNom">
+   <string>Sistema inercial MIS-P</string>
+  </void>
+  <void property="productePreu">
+   <int>22</int>
+  </void>
+ </object>
+ <object class="DBOO_exercicis_1.Producte_Dades">
+  <void property="idDepartamentQueElPotDemanar">
+   <int>2</int>
+  </void>
+  <void property="producteId">
+   <int>2</int>
+  </void>
+  <void property="producteNom">
+   <string>Torpede mark 2</string>
+  </void>
+  <void property="productePreu">
+   <int>200</int>
+  </void>
+ </object>
+  <object class="DBOO_exercicis_1.Producte_Dades">
+  <void property="idDepartamentQueElPotDemanar">
+   <int>2</int>
+  </void>
+  <void property="producteId">
+   <int>20</int>
+  </void>
+  <void property="producteNom">
+   <string>Mina d'antimatèria</string>
+  </void>
+  <void property="productePreu">
+   <int>20</int>
+  </void>
+ </object>
+</java>
