@@ -10,6 +10,13 @@ public class Producte_Dades implements Comparable<Producte_Dades>{
     public Producte_Dades() {
     }
 
+    public Producte_Dades(int producteId, String producteNom, int productePreu, int idDepartamentQueElPotDemanar) {
+        this.producteId = producteId;
+        this.producteNom = producteNom;
+        this.productePreu = productePreu;
+        this.idDepartamentQueElPotDemanar = idDepartamentQueElPotDemanar;
+    }
+
     public int getProducteId() {
         return producteId;
     }
